@@ -16,6 +16,16 @@ directamente por WhatsApp. Incluye también un sistema de suscripción por email
 
 ---
 
+## Capturas de Pantalla
+
+### Vista general
+<img width="1916" height="971" alt="Universo_Otaku1" src="https://github.com/user-attachments/assets/7d487260-d673-4d54-80b7-5feea4e59fc9" />
+
+### Catálogo
+<img width="1786" height="966" alt="Universo_Otaku2" src="https://github.com/user-attachments/assets/108d57d1-9766-45ff-9838-fc61e8814ccd" />
+
+---
+
 ## Características
 - Catálogo dinámico con búsqueda en tiempo real
 - Filtros de ordenación por título, autor y precio
@@ -27,17 +37,7 @@ directamente por WhatsApp. Incluye también un sistema de suscripción por email
 
 ---
 
-## Capturas de Pantalla
-
-### Vista general
-![Vista general](images/captura1.png)
-
-### Catálogo
-![Catálogo](images/captura2.png)
-
----
-
 ## Documento XML
-El proyecto incluye un archivo XML con información sobre tres mangas: con título, autor, género, descripción, precio y stock.
+El proyecto incluye un archivo XML con información de tres mangas: con título, autor, género, descripción, precio y stock.
 
 
